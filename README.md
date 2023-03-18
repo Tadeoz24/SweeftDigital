@@ -33,7 +33,7 @@ What things you need to install the software and how to install them.
 ```
 $ git clone https://github.com/Tadeoz24/SweeftDigital.git
 
-$ cd Portfolio
+$ cd sweeftmakingscience
 
 $ npm install
 
