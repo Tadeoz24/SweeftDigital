@@ -20,7 +20,7 @@ A project that helps to see a list of users from an API involves retrieving user
 
 ## Live <a name = "live"></a>
 
-//
+https://tadeoz24.github.io/SweeftDigital/
 
 ## Getting Started <a name = "getting_started"></a>
 
